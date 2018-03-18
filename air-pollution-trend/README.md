@@ -15,13 +15,13 @@
 ## Analysis
   * `五都`：五都PM2.5濃度變化趨勢圖
 
-![](https://github.com/daisy3607/data-analysis-report/blob/master/pm25_analysis/%E4%BA%94%E9%83%BD.png?raw=true)
+![](./pm25_analysis/%E4%BA%94%E9%83%BD.png)
 
   * `台灣各區` ：台灣分區濃度變化趨勢圖
 
-![](https://github.com/daisy3607/data-analysis-report/blob/master/pm25_analysis/%E5%8F%B0%E7%81%A3%E5%90%84%E5%8D%80.png?raw=true)
+![](./pm25_analysis/%E5%8F%B0%E7%81%A3%E5%90%84%E5%8D%80.png)
 
 
   * `全台紫爆`：紫爆天數統計 
 
-![](https://github.com/daisy3607/data-analysis-report/blob/master/pm25_analysis/%E5%85%A8%E5%8F%B0%E7%B4%AB%E7%88%86.png?raw=true)
+![](./pm25_analysis/%E5%85%A8%E5%8F%B0%E7%B4%AB%E7%88%86.png?)
